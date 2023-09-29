@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_miatoll.mk
+    $(LOCAL_DIR)/lmodroid_miatoll.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_miatoll-user \
-    lineage_miatoll-userdebug \
-    lineage_miatoll-eng
+    lmodroid_miatoll-user \
+    lmodroid_miatoll-userdebug \
+    lmodroid_miatoll-eng
